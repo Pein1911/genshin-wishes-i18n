@@ -190,7 +190,7 @@
     "fourStarsList.title": "danh sách 4★",
     "bannerActivity.title": "Cầu nguyện theo thời gian",
     "filters": {
-      "filterByEvent": "Lọc bởi sự kiện",
+      "filterByEvent": "Lọc theo sự kiện",
       "selectEvent": "Chọn sự kiện",
       "allEvents": "Tất cả sự kiện"
     }
@@ -222,11 +222,11 @@
       "Weapon": "Vũ khí"
     },
     "filters": {
-      "freeText": "Lọc bởi tên",
-      "itemType": "Lọc bởi loại",
-      "rank": "Lọc bởi độ hiếm",
-      "characterEvent": "Lọc bởi sự kiện nhân vật",
-      "weaponEvent": "Lọc bởi sự kiện vũ khí",
+      "freeText": "Lọc theo tên",
+      "itemType": "Lọc theo loại",
+      "rank": "Lọc theo độ hiếm",
+      "characterEvent": "Lọc theo sự kiện nhân vật",
+      "weaponEvent": "Lọc theo sự kiện vũ khí",
       "selectEvent": "Sự kiện được chọn",
       "reset": "Hủy chọn"
     },
