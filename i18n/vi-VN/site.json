@@ -13,7 +13,7 @@
     "beta": "Thử nghiệm",
     "save": "Lưu",
     "goBack": "Quay lại",
-    "moreOf": "Thêm {{ content }}",
+    "moreOf": "Tải thêm {{ content }}",
     "error$": {
       "emoji": "\uD83D\uDE31",
       "title": "",
@@ -72,18 +72,18 @@
     "logout.label": "Thoát"
   },
   "banners": {
-    "label": "Banners",
+    "label": "Các Banner",
     "seeWishes": "Xem cầu nguyện",
     "noWishes": "Không có cầu nguyện",
     "wishes": "{{ count }} cầu nguyện",
     "pity5": "Bảo hiểm 5★",
     "pity4": "Bảo hiểm 4★",
-    "last5": "Gần nhất 5★",
-    "last4": "Gần nhất 4★",
+    "last5": "5★ Gần nhất",
+    "last4": "4★ Gần nhất",
     "none": "Không có"
   },
   "cookie": {
-    "title": "Này! Paimon để cho chúng tôi chút cookies. \uD83D\uDE0B\n",
+    "title": "Này! Paimon cho chúng tôi chút cookies. \uD83D\uDE0B\n",
     "message": "Sử dụng trang web này, bạn đồng ý chỉ sử dụng cookies để phân tích lưu lượng truy cập.",
     "ok": "Được, Tôi thích cookies!"
   },
@@ -157,7 +157,7 @@
     "deleteAccount": {
       "title": "Xóa tài khoản",
       "subTitle": "Xóa tất cả dữ liệu trên Genshin Wishes",
-      "hint": "Type <b>{{ confirmation }}</b> trước khi nhấn vào nút xóa tài khoản.",
+      "hint": "Gõ <b>{{ confirmation }}</b> trước khi nhấn vào nút xóa tài khoản.",
       "label": "Gõ vào đây",
       "action": "Xóa tài khoản của tôi",
       "confirmation": "XÓA TÀI KHOẢN"
@@ -175,6 +175,7 @@
       },
       "action": "Xuất danh sách cầu nguyện"
     }
+    
   },
   "stats": {
     "label": "Số liệu",
@@ -185,12 +186,12 @@
     "rankDistribution.title": "Độ hiếm",
     "focusDistribution.title": "5★ giới hạn",
     "fourStarsDetails.title": "4★ các loại",
-    "fiveStarsList.title": "5★ danh sách",
-    "fourStarsList.title": "4★ danh sách",
+    "fiveStarsList.title": "danh sách 5★",
+    "fourStarsList.title": "danh sách 4★",
     "bannerActivity.title": "Cầu nguyện theo thời gian",
     "filters": {
       "filterByEvent": "Lọc bởi sự kiện",
-      "selectEvent": "Chọn bởi event",
+      "selectEvent": "Chọn sự kiện",
       "allEvents": "Tất cả sự kiện"
     }
   },
@@ -281,20 +282,20 @@
         "titleWithCount": "Tổng số cầu nguyện ({{ wishes }})"
       },
       "NOVICE": {
-        "title": "Banner Tân thủ",
-        "titleWithCount": "Banner Tân thủ ({{ wishes }} cầu nguyện)"
+        "title": "Banner tân thủ",
+        "titleWithCount": "Banner tân thủ ({{ wishes }} cầu nguyện)"
       },
       "PERMANENT": {
-        "title": "Banner Thường",
-        "titleWithCount": "Banner Thường ({{ wishes }} cầu nguyện)"
+        "title": "Banner thường",
+        "titleWithCount": "Banner thường ({{ wishes }} cầu nguyện)"
       },
       "CHARACTER_EVENT": {
-        "title": "Banner Nhân vật",
-        "titleWithCount": "Banner Nhân vật ({{ wishes }} cầu nguyện)"
+        "title": "Banner nhân vật",
+        "titleWithCount": "Banner nhân vật ({{ wishes }} cầu nguyện)"
       },
       "WEAPON_EVENT": {
-        "title": "Banner Vũ khí",
-        "titleWithCount": "Banner Vũ khí ({{ wishes }} cầu nguyện)"
+        "title": "Banner vũ khí",
+        "titleWithCount": "Banner vũ khí ({{ wishes }} cầu nguyện)"
       }
     }
   },
